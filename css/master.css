@@ -231,6 +231,9 @@ ul {
     padding: 15px;
     font-weight: bold;
 }
+.header-area .logo img {
+    width: 120px;
+}
 .header-area .links-container {
     width: 100%;
     text-align: right;
